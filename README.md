@@ -1,3 +1,13 @@
-# react-starter-example
-The first code
-Here is my first example
+# React Server-side Rendering
+
+Install dependencies:
+
+```
+npm install
+```
+
+Start the server:
+
+```
+npm start
+```
